@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Мені? сайтым</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>?ош келді?іздер!</h1>
+  <p>Б?л мені? жеке сайтым.</p>
+</body>
+</html>
